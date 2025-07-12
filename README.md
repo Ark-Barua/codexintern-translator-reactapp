@@ -32,6 +32,12 @@ Click below to view the live working app:
 - **Axios** (API request handling)
 - **Google Translate API** (via RapidAPI)
 
+## 🛠️ Tech Stack
+- ⚛️ React (with Vite)
+- 🎨 Tailwind CSS
+- 🌐 Axios for API requests
+- 🚀 Deployed on Vercel
+
 ---
 
 ## How It Works
@@ -137,6 +143,12 @@ English, Hindi, Bengali, Tamil, Telugu, Arabic, Spanish, French, Japanese, Korea
 
 **Made with ❤️ by Ark Barua**
 > _Project suggested by [CODEXINTERN](https://codexintern.in/)_
+
+---
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 
 ---
 
