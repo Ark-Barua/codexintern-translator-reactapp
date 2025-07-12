@@ -31,12 +31,7 @@ Click below to view the live working app:
 - **Tailwind CSS** (Utility-first modern styling)
 - **Axios** (API request handling)
 - **Google Translate API** (via RapidAPI)
-
-## 🛠️ Tech Stack
-- ⚛️ React (with Vite)
-- 🎨 Tailwind CSS
-- 🌐 Axios for API requests
-- 🚀 Deployed on Vercel
+- Deployed on **Vercel**
 
 ---
 
