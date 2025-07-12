@@ -21,7 +21,7 @@ A beautiful and responsive language translator web application built using **Rea
 > Deployed on **Vercel**
 Click below to view the live working app:
 
-🔗 **[Live Demo →](https://your-vercel-app-name.vercel.app)**
+🔗 **[Live Demo →](codexintern-translator-reactapp.vercel.app)**
 
 > _(Make sure to save your screenshot as `screenshot.png` in your root folder before submission)_
 
