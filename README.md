@@ -23,8 +23,6 @@ Click below to view the live working app:
 
 🔗 **[Live Demo →](codexintern-translator-reactapp.vercel.app)**
 
-> _(Make sure to save your screenshot as `screenshot.png` in your root folder before submission)_
-
 ---
 
 ## 🔧 Technologies Used
