@@ -149,7 +149,9 @@ English, Hindi, Bengali, Tamil, Telugu, Arabic, Spanish, French, Japanese, Korea
 
 ## License
 
-This project is open-source under the **MIT License**.
-Free to use, modify, and enhance.
+This project is open-source under the [**MIT License**](LICENSE).
+Free to use, modify, and enhance for personal or commercial purposes.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
