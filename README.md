@@ -7,7 +7,7 @@ A beautiful and responsive language translator web application built using **Rea
 
 ## Features
 
-- Translate text into **60+ global languages**
+- Translate text into **40+ global languages**
 - **Modern UI** with **glassmorphism** and soft pastel gradients
 - Built with **React Hooks (useState)** for seamless interactivity
 - Integrated with **Axios** for API communication
