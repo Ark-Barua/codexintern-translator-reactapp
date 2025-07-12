@@ -136,7 +136,7 @@ English, Hindi, Bengali, Tamil, Telugu, Arabic, Spanish, French, Japanese, Korea
 ## Contact
 
 **Made with ❤️ by Ark Barua**
-> _Project suggested by [CODEXINTERN]([https://codexintern.in/])_
+> _Project suggested by [CODEXINTERN](https://codexintern.in/)_
 
 ---
 
